@@ -13,7 +13,7 @@ x0 = (taille_fenetre[0] - 7 * taille_rectangles[0]) / 2
 y0 = (taille_fenetre[1] - taille_rectangles[1]) / 2
 
 jeux_contre_ordinateur = False
-nombre_de_simulation = 100
+nombre_de_simulation = 200
 
 
 def dessin_cercle(x, y, r, colone, couleur):  # de centre x,y et de rayon r
